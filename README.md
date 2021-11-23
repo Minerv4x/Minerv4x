@@ -14,7 +14,7 @@
 
 <a href="https://instagram.com/xd.xenxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xd.xenxa" height="30" width="40" /></a>
 
-<a href="/xenzax.unaux.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="xenzax.unaux.com" height="30" width="40" /></a>
+<a href="/http://xenzax.unaux.com/?i=2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="xenzax.unaux.com" height="30" width="40" /></a>
 
 </p>
 
