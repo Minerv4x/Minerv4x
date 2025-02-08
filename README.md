@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Minerv4x/Minerv4x/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Minerv4x/output/snake.svg" alt="Snake animation" />
 
 ###
 
