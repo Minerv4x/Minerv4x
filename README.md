@@ -49,9 +49,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Minerv4x/output/snake.svg" alt="Snake animation" />
 
 ###
 
