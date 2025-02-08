@@ -55,4 +55,4 @@
 
 ###
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/971424275913383996)](https://discord.com/users/971424275913383996)
+[![Discord Presence](https://lanyard.cnrad.dev/api/492309522484822018?theme=dark)](https://discord.com/users/492309522484822018)
